@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+pandas = "*"
+sklearn = "*"
+statsmodels = "*"
+optuna = "*"
+matplotlib = "*"
+Flask = "*"
+boto3 = "*"
+jupyterlab = "*"
+
+[requires]
+python_version = "3.7"
