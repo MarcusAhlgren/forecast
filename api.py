@@ -30,4 +30,4 @@ def predict():
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000)
     
-#curl -X POST "http://127.0.0.1:5000/predict?start=2020-02-01&end=2020-06-01"
+#curl -X POST "http://127.0.0.1:5000/predict?start=2020-02-01&end=2020-05-01"
