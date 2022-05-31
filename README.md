@@ -25,7 +25,7 @@ Now you are ready to run the project code.
 
 ## API Endpoint
 
-There is currently not an API endpoint. The idea was to host a flask app on AWS using Lambda and API Gateway but my attempt was unsuccessful to host it in AWS. The Flask app can only be run locally by typing in the console:
+The Flask app can be run locally by typing in the console:
 
     python api.py
     
